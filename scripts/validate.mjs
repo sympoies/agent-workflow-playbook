@@ -18,7 +18,7 @@ const requiredStrings = [
   "symphony-board",
   "CLI Contract Demo",
   "用 agent 安裝 agent-runtime-kit",
-  "請幫我安裝 graysurf/agent-runtime-kit 到這台 Mac",
+  "請幫我安裝 sympoies/agent-runtime-kit 到這台 Mac",
   "agent-runtime doctor --product codex --format json",
   "bash scripts/setup.sh --profile core --skip-homebrew-install --dry-run",
   "bash scripts/sync-runtime-surfaces.sh --apply",
@@ -27,7 +27,7 @@ const requiredStrings = [
   "forge-cli issue view 146 --with-comments --repo sympoies/symphony-board --format json",
   "forge-cli pr view 172 --repo sympoies/symphony-board --format json",
   "forge-cli pr deliver --kind feature --title",
-  "https://github.com/graysurf/agent-runtime-kit",
+  "https://github.com/sympoies/agent-runtime-kit",
   "https://github.com/sympoies/nils-cli",
   "https://github.com/sympoies/nils-alfredworkflow",
   "https://github.com/sympoies/symphony-board"

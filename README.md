@@ -20,7 +20,7 @@ npm run serve
 
 ## Source Repos Referenced
 
-- <https://github.com/graysurf/agent-runtime-kit>
+- <https://github.com/sympoies/agent-runtime-kit>
 - <https://github.com/sympoies/nils-cli>
 - <https://github.com/sympoies/nils-alfredworkflow>
 - <https://github.com/sympoies/symphony-board>
