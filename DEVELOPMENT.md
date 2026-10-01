@@ -1,8 +1,7 @@
 # Development
 
 Contributor guide for maintaining the Agent Workflow Playbook website. Read
-[`AGENTS.md`](AGENTS.md) first; [`CLAUDE.md`](CLAUDE.md) imports the same
-repository policy for Claude Code.
+[`AGENTS.md`](AGENTS.md) first.
 
 ## Setup and source ownership
 
